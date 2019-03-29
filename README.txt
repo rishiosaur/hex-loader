@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/684386/pen/XXJYMo.
-
- 
+I honestly have no clue how i made this a couple of years ago, but you can do whatever you want with it. maybe a loader, or something.
